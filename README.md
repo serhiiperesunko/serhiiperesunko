@@ -1,7 +1,7 @@
-### Hi there 👋
-#### My name is Serhii. <br/>
-<i> I'm a software engineer with 5 years of commercial experience in web development. <br/> I love to work with React and Typescript.<br/></i>
-#### Also, you can find me on: <br/>
+Hello 👋 <br/>
+My name is Serhii. I am from Ukraine 🇺🇦<br/>
+I'm a software engineer with 5 years of commercial experience in web development. I love to work with React and Typescript.<br/>
+###### Also, you can find me on: <br/>
 
 [Twitter](https://twitter.com/serhiiperesunko)
 <!--
