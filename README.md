@@ -1,9 +1,9 @@
-Hello 👋 <br/>
+### Hello 👋
 My name is Serhii. I am from Ukraine 🇺🇦<br/>
 I'm a software engineer with 5 years of commercial experience in web development. I love to work with React and Typescript.<br/>
 ###### Also, you can find me on: <br/>
 
-[Twitter](https://twitter.com/serhiiperesunko)
+⚡ [Twitter](https://twitter.com/serhiiperesunko)
 <!--
 **serhiiperesunko/serhiiperesunko** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
